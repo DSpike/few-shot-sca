@@ -1,0 +1,301 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,Run,Seed
+Standard CNN,1280,5-shot equivalent,100,46,1,42
+Standard CNN,1280,5-shot equivalent,500,33,1,42
+Standard CNN,1280,5-shot equivalent,1000,33,1,42
+Standard CNN,1280,5-shot equivalent,2000,150,1,42
+Standard CNN,1280,5-shot equivalent,5000,201,1,42
+Standard CNN,1280,5-shot equivalent,10000,220,1,42
+Standard CNN,2560,10-shot equivalent,100,166,1,42
+Standard CNN,2560,10-shot equivalent,500,24,1,42
+Standard CNN,2560,10-shot equivalent,1000,98,1,42
+Standard CNN,2560,10-shot equivalent,2000,175,1,42
+Standard CNN,2560,10-shot equivalent,5000,242,1,42
+Standard CNN,2560,10-shot equivalent,10000,205,1,42
+Standard CNN,3840,15-shot equivalent,100,33,1,42
+Standard CNN,3840,15-shot equivalent,500,55,1,42
+Standard CNN,3840,15-shot equivalent,1000,54,1,42
+Standard CNN,3840,15-shot equivalent,2000,6,1,42
+Standard CNN,3840,15-shot equivalent,5000,28,1,42
+Standard CNN,3840,15-shot equivalent,10000,10,1,42
+Standard CNN,5120,20-shot equivalent,100,232,1,42
+Standard CNN,5120,20-shot equivalent,500,209,1,42
+Standard CNN,5120,20-shot equivalent,1000,208,1,42
+Standard CNN,5120,20-shot equivalent,2000,206,1,42
+Standard CNN,5120,20-shot equivalent,5000,36,1,42
+Standard CNN,5120,20-shot equivalent,10000,98,1,42
+Standard CNN,50000,Full training set,100,244,1,42
+Standard CNN,50000,Full training set,500,141,1,42
+Standard CNN,50000,Full training set,1000,150,1,42
+Standard CNN,50000,Full training set,2000,139,1,42
+Standard CNN,50000,Full training set,5000,173,1,42
+Standard CNN,50000,Full training set,10000,46,1,42
+Standard CNN,1280,5-shot equivalent,100,166,2,43
+Standard CNN,1280,5-shot equivalent,500,69,2,43
+Standard CNN,1280,5-shot equivalent,1000,74,2,43
+Standard CNN,1280,5-shot equivalent,2000,108,2,43
+Standard CNN,1280,5-shot equivalent,5000,40,2,43
+Standard CNN,1280,5-shot equivalent,10000,52,2,43
+Standard CNN,2560,10-shot equivalent,100,82,2,43
+Standard CNN,2560,10-shot equivalent,500,2,2,43
+Standard CNN,2560,10-shot equivalent,1000,4,2,43
+Standard CNN,2560,10-shot equivalent,2000,23,2,43
+Standard CNN,2560,10-shot equivalent,5000,41,2,43
+Standard CNN,2560,10-shot equivalent,10000,57,2,43
+Standard CNN,3840,15-shot equivalent,100,210,2,43
+Standard CNN,3840,15-shot equivalent,500,212,2,43
+Standard CNN,3840,15-shot equivalent,1000,154,2,43
+Standard CNN,3840,15-shot equivalent,2000,167,2,43
+Standard CNN,3840,15-shot equivalent,5000,168,2,43
+Standard CNN,3840,15-shot equivalent,10000,142,2,43
+Standard CNN,5120,20-shot equivalent,100,238,2,43
+Standard CNN,5120,20-shot equivalent,500,181,2,43
+Standard CNN,5120,20-shot equivalent,1000,216,2,43
+Standard CNN,5120,20-shot equivalent,2000,209,2,43
+Standard CNN,5120,20-shot equivalent,5000,218,2,43
+Standard CNN,5120,20-shot equivalent,10000,196,2,43
+Standard CNN,50000,Full training set,100,138,2,43
+Standard CNN,50000,Full training set,500,64,2,43
+Standard CNN,50000,Full training set,1000,46,2,43
+Standard CNN,50000,Full training set,2000,92,2,43
+Standard CNN,50000,Full training set,5000,214,2,43
+Standard CNN,50000,Full training set,10000,115,2,43
+Standard CNN,1280,5-shot equivalent,100,150,3,44
+Standard CNN,1280,5-shot equivalent,500,18,3,44
+Standard CNN,1280,5-shot equivalent,1000,14,3,44
+Standard CNN,1280,5-shot equivalent,2000,114,3,44
+Standard CNN,1280,5-shot equivalent,5000,124,3,44
+Standard CNN,1280,5-shot equivalent,10000,222,3,44
+Standard CNN,2560,10-shot equivalent,100,128,3,44
+Standard CNN,2560,10-shot equivalent,500,188,3,44
+Standard CNN,2560,10-shot equivalent,1000,185,3,44
+Standard CNN,2560,10-shot equivalent,2000,140,3,44
+Standard CNN,2560,10-shot equivalent,5000,89,3,44
+Standard CNN,2560,10-shot equivalent,10000,130,3,44
+Standard CNN,3840,15-shot equivalent,100,55,3,44
+Standard CNN,3840,15-shot equivalent,500,192,3,44
+Standard CNN,3840,15-shot equivalent,1000,157,3,44
+Standard CNN,3840,15-shot equivalent,2000,243,3,44
+Standard CNN,3840,15-shot equivalent,5000,214,3,44
+Standard CNN,3840,15-shot equivalent,10000,164,3,44
+Standard CNN,5120,20-shot equivalent,100,196,3,44
+Standard CNN,5120,20-shot equivalent,500,116,3,44
+Standard CNN,5120,20-shot equivalent,1000,108,3,44
+Standard CNN,5120,20-shot equivalent,2000,105,3,44
+Standard CNN,5120,20-shot equivalent,5000,161,3,44
+Standard CNN,5120,20-shot equivalent,10000,155,3,44
+Standard CNN,50000,Full training set,100,255,3,44
+Standard CNN,50000,Full training set,500,246,3,44
+Standard CNN,50000,Full training set,1000,253,3,44
+Standard CNN,50000,Full training set,2000,247,3,44
+Standard CNN,50000,Full training set,5000,252,3,44
+Standard CNN,50000,Full training set,10000,197,3,44
+Standard CNN,1280,5-shot equivalent,100,7,4,45
+Standard CNN,1280,5-shot equivalent,500,159,4,45
+Standard CNN,1280,5-shot equivalent,1000,175,4,45
+Standard CNN,1280,5-shot equivalent,2000,165,4,45
+Standard CNN,1280,5-shot equivalent,5000,201,4,45
+Standard CNN,1280,5-shot equivalent,10000,147,4,45
+Standard CNN,2560,10-shot equivalent,100,196,4,45
+Standard CNN,2560,10-shot equivalent,500,98,4,45
+Standard CNN,2560,10-shot equivalent,1000,80,4,45
+Standard CNN,2560,10-shot equivalent,2000,119,4,45
+Standard CNN,2560,10-shot equivalent,5000,157,4,45
+Standard CNN,2560,10-shot equivalent,10000,174,4,45
+Standard CNN,3840,15-shot equivalent,100,67,4,45
+Standard CNN,3840,15-shot equivalent,500,49,4,45
+Standard CNN,3840,15-shot equivalent,1000,141,4,45
+Standard CNN,3840,15-shot equivalent,2000,214,4,45
+Standard CNN,3840,15-shot equivalent,5000,213,4,45
+Standard CNN,3840,15-shot equivalent,10000,217,4,45
+Standard CNN,5120,20-shot equivalent,100,214,4,45
+Standard CNN,5120,20-shot equivalent,500,181,4,45
+Standard CNN,5120,20-shot equivalent,1000,177,4,45
+Standard CNN,5120,20-shot equivalent,2000,154,4,45
+Standard CNN,5120,20-shot equivalent,5000,169,4,45
+Standard CNN,5120,20-shot equivalent,10000,143,4,45
+Standard CNN,50000,Full training set,100,162,4,45
+Standard CNN,50000,Full training set,500,142,4,45
+Standard CNN,50000,Full training set,1000,156,4,45
+Standard CNN,50000,Full training set,2000,158,4,45
+Standard CNN,50000,Full training set,5000,152,4,45
+Standard CNN,50000,Full training set,10000,73,4,45
+Standard CNN,1280,5-shot equivalent,100,89,5,46
+Standard CNN,1280,5-shot equivalent,500,180,5,46
+Standard CNN,1280,5-shot equivalent,1000,234,5,46
+Standard CNN,1280,5-shot equivalent,2000,187,5,46
+Standard CNN,1280,5-shot equivalent,5000,167,5,46
+Standard CNN,1280,5-shot equivalent,10000,225,5,46
+Standard CNN,2560,10-shot equivalent,100,145,5,46
+Standard CNN,2560,10-shot equivalent,500,237,5,46
+Standard CNN,2560,10-shot equivalent,1000,184,5,46
+Standard CNN,2560,10-shot equivalent,2000,200,5,46
+Standard CNN,2560,10-shot equivalent,5000,12,5,46
+Standard CNN,2560,10-shot equivalent,10000,39,5,46
+Standard CNN,3840,15-shot equivalent,100,241,5,46
+Standard CNN,3840,15-shot equivalent,500,251,5,46
+Standard CNN,3840,15-shot equivalent,1000,241,5,46
+Standard CNN,3840,15-shot equivalent,2000,241,5,46
+Standard CNN,3840,15-shot equivalent,5000,216,5,46
+Standard CNN,3840,15-shot equivalent,10000,122,5,46
+Standard CNN,5120,20-shot equivalent,100,150,5,46
+Standard CNN,5120,20-shot equivalent,500,188,5,46
+Standard CNN,5120,20-shot equivalent,1000,250,5,46
+Standard CNN,5120,20-shot equivalent,2000,248,5,46
+Standard CNN,5120,20-shot equivalent,5000,149,5,46
+Standard CNN,5120,20-shot equivalent,10000,89,5,46
+Standard CNN,50000,Full training set,100,176,5,46
+Standard CNN,50000,Full training set,500,171,5,46
+Standard CNN,50000,Full training set,1000,146,5,46
+Standard CNN,50000,Full training set,2000,190,5,46
+Standard CNN,50000,Full training set,5000,152,5,46
+Standard CNN,50000,Full training set,10000,79,5,46
+Standard CNN,1280,5-shot equivalent,100,118,6,47
+Standard CNN,1280,5-shot equivalent,500,102,6,47
+Standard CNN,1280,5-shot equivalent,1000,140,6,47
+Standard CNN,1280,5-shot equivalent,2000,214,6,47
+Standard CNN,1280,5-shot equivalent,5000,210,6,47
+Standard CNN,1280,5-shot equivalent,10000,185,6,47
+Standard CNN,2560,10-shot equivalent,100,21,6,47
+Standard CNN,2560,10-shot equivalent,500,14,6,47
+Standard CNN,2560,10-shot equivalent,1000,6,6,47
+Standard CNN,2560,10-shot equivalent,2000,5,6,47
+Standard CNN,2560,10-shot equivalent,5000,54,6,47
+Standard CNN,2560,10-shot equivalent,10000,87,6,47
+Standard CNN,3840,15-shot equivalent,100,126,6,47
+Standard CNN,3840,15-shot equivalent,500,113,6,47
+Standard CNN,3840,15-shot equivalent,1000,188,6,47
+Standard CNN,3840,15-shot equivalent,2000,220,6,47
+Standard CNN,3840,15-shot equivalent,5000,156,6,47
+Standard CNN,3840,15-shot equivalent,10000,141,6,47
+Standard CNN,5120,20-shot equivalent,100,98,6,47
+Standard CNN,5120,20-shot equivalent,500,17,6,47
+Standard CNN,5120,20-shot equivalent,1000,111,6,47
+Standard CNN,5120,20-shot equivalent,2000,188,6,47
+Standard CNN,5120,20-shot equivalent,5000,83,6,47
+Standard CNN,5120,20-shot equivalent,10000,161,6,47
+Standard CNN,50000,Full training set,100,183,6,47
+Standard CNN,50000,Full training set,500,178,6,47
+Standard CNN,50000,Full training set,1000,240,6,47
+Standard CNN,50000,Full training set,2000,195,6,47
+Standard CNN,50000,Full training set,5000,125,6,47
+Standard CNN,50000,Full training set,10000,120,6,47
+Standard CNN,1280,5-shot equivalent,100,148,7,48
+Standard CNN,1280,5-shot equivalent,500,193,7,48
+Standard CNN,1280,5-shot equivalent,1000,224,7,48
+Standard CNN,1280,5-shot equivalent,2000,229,7,48
+Standard CNN,1280,5-shot equivalent,5000,110,7,48
+Standard CNN,1280,5-shot equivalent,10000,77,7,48
+Standard CNN,2560,10-shot equivalent,100,252,7,48
+Standard CNN,2560,10-shot equivalent,500,207,7,48
+Standard CNN,2560,10-shot equivalent,1000,162,7,48
+Standard CNN,2560,10-shot equivalent,2000,115,7,48
+Standard CNN,2560,10-shot equivalent,5000,175,7,48
+Standard CNN,2560,10-shot equivalent,10000,68,7,48
+Standard CNN,3840,15-shot equivalent,100,209,7,48
+Standard CNN,3840,15-shot equivalent,500,198,7,48
+Standard CNN,3840,15-shot equivalent,1000,200,7,48
+Standard CNN,3840,15-shot equivalent,2000,189,7,48
+Standard CNN,3840,15-shot equivalent,5000,128,7,48
+Standard CNN,3840,15-shot equivalent,10000,197,7,48
+Standard CNN,5120,20-shot equivalent,100,109,7,48
+Standard CNN,5120,20-shot equivalent,500,17,7,48
+Standard CNN,5120,20-shot equivalent,1000,48,7,48
+Standard CNN,5120,20-shot equivalent,2000,106,7,48
+Standard CNN,5120,20-shot equivalent,5000,82,7,48
+Standard CNN,5120,20-shot equivalent,10000,44,7,48
+Standard CNN,50000,Full training set,100,239,7,48
+Standard CNN,50000,Full training set,500,151,7,48
+Standard CNN,50000,Full training set,1000,221,7,48
+Standard CNN,50000,Full training set,2000,119,7,48
+Standard CNN,50000,Full training set,5000,54,7,48
+Standard CNN,50000,Full training set,10000,24,7,48
+Standard CNN,1280,5-shot equivalent,100,216,8,49
+Standard CNN,1280,5-shot equivalent,500,200,8,49
+Standard CNN,1280,5-shot equivalent,1000,243,8,49
+Standard CNN,1280,5-shot equivalent,2000,253,8,49
+Standard CNN,1280,5-shot equivalent,5000,255,8,49
+Standard CNN,1280,5-shot equivalent,10000,252,8,49
+Standard CNN,2560,10-shot equivalent,100,44,8,49
+Standard CNN,2560,10-shot equivalent,500,74,8,49
+Standard CNN,2560,10-shot equivalent,1000,44,8,49
+Standard CNN,2560,10-shot equivalent,2000,51,8,49
+Standard CNN,2560,10-shot equivalent,5000,186,8,49
+Standard CNN,2560,10-shot equivalent,10000,51,8,49
+Standard CNN,3840,15-shot equivalent,100,215,8,49
+Standard CNN,3840,15-shot equivalent,500,133,8,49
+Standard CNN,3840,15-shot equivalent,1000,34,8,49
+Standard CNN,3840,15-shot equivalent,2000,111,8,49
+Standard CNN,3840,15-shot equivalent,5000,99,8,49
+Standard CNN,3840,15-shot equivalent,10000,51,8,49
+Standard CNN,5120,20-shot equivalent,100,218,8,49
+Standard CNN,5120,20-shot equivalent,500,171,8,49
+Standard CNN,5120,20-shot equivalent,1000,135,8,49
+Standard CNN,5120,20-shot equivalent,2000,36,8,49
+Standard CNN,5120,20-shot equivalent,5000,67,8,49
+Standard CNN,5120,20-shot equivalent,10000,212,8,49
+Standard CNN,50000,Full training set,100,244,8,49
+Standard CNN,50000,Full training set,500,77,8,49
+Standard CNN,50000,Full training set,1000,52,8,49
+Standard CNN,50000,Full training set,2000,52,8,49
+Standard CNN,50000,Full training set,5000,187,8,49
+Standard CNN,50000,Full training set,10000,103,8,49
+Standard CNN,1280,5-shot equivalent,100,62,9,50
+Standard CNN,1280,5-shot equivalent,500,35,9,50
+Standard CNN,1280,5-shot equivalent,1000,37,9,50
+Standard CNN,1280,5-shot equivalent,2000,83,9,50
+Standard CNN,1280,5-shot equivalent,5000,39,9,50
+Standard CNN,1280,5-shot equivalent,10000,22,9,50
+Standard CNN,2560,10-shot equivalent,100,71,9,50
+Standard CNN,2560,10-shot equivalent,500,210,9,50
+Standard CNN,2560,10-shot equivalent,1000,197,9,50
+Standard CNN,2560,10-shot equivalent,2000,153,9,50
+Standard CNN,2560,10-shot equivalent,5000,248,9,50
+Standard CNN,2560,10-shot equivalent,10000,139,9,50
+Standard CNN,3840,15-shot equivalent,100,226,9,50
+Standard CNN,3840,15-shot equivalent,500,244,9,50
+Standard CNN,3840,15-shot equivalent,1000,251,9,50
+Standard CNN,3840,15-shot equivalent,2000,243,9,50
+Standard CNN,3840,15-shot equivalent,5000,170,9,50
+Standard CNN,3840,15-shot equivalent,10000,173,9,50
+Standard CNN,5120,20-shot equivalent,100,243,9,50
+Standard CNN,5120,20-shot equivalent,500,187,9,50
+Standard CNN,5120,20-shot equivalent,1000,115,9,50
+Standard CNN,5120,20-shot equivalent,2000,99,9,50
+Standard CNN,5120,20-shot equivalent,5000,214,9,50
+Standard CNN,5120,20-shot equivalent,10000,155,9,50
+Standard CNN,50000,Full training set,100,227,9,50
+Standard CNN,50000,Full training set,500,203,9,50
+Standard CNN,50000,Full training set,1000,210,9,50
+Standard CNN,50000,Full training set,2000,216,9,50
+Standard CNN,50000,Full training set,5000,132,9,50
+Standard CNN,50000,Full training set,10000,153,9,50
+Standard CNN,1280,5-shot equivalent,100,100,10,51
+Standard CNN,1280,5-shot equivalent,500,77,10,51
+Standard CNN,1280,5-shot equivalent,1000,161,10,51
+Standard CNN,1280,5-shot equivalent,2000,96,10,51
+Standard CNN,1280,5-shot equivalent,5000,142,10,51
+Standard CNN,1280,5-shot equivalent,10000,106,10,51
+Standard CNN,2560,10-shot equivalent,100,243,10,51
+Standard CNN,2560,10-shot equivalent,500,227,10,51
+Standard CNN,2560,10-shot equivalent,1000,232,10,51
+Standard CNN,2560,10-shot equivalent,2000,231,10,51
+Standard CNN,2560,10-shot equivalent,5000,241,10,51
+Standard CNN,2560,10-shot equivalent,10000,223,10,51
+Standard CNN,3840,15-shot equivalent,100,223,10,51
+Standard CNN,3840,15-shot equivalent,500,196,10,51
+Standard CNN,3840,15-shot equivalent,1000,179,10,51
+Standard CNN,3840,15-shot equivalent,2000,13,10,51
+Standard CNN,3840,15-shot equivalent,5000,10,10,51
+Standard CNN,3840,15-shot equivalent,10000,10,10,51
+Standard CNN,5120,20-shot equivalent,100,26,10,51
+Standard CNN,5120,20-shot equivalent,500,155,10,51
+Standard CNN,5120,20-shot equivalent,1000,117,10,51
+Standard CNN,5120,20-shot equivalent,2000,99,10,51
+Standard CNN,5120,20-shot equivalent,5000,132,10,51
+Standard CNN,5120,20-shot equivalent,10000,125,10,51
+Standard CNN,50000,Full training set,100,236,10,51
+Standard CNN,50000,Full training set,500,108,10,51
+Standard CNN,50000,Full training set,1000,116,10,51
+Standard CNN,50000,Full training set,2000,112,10,51
+Standard CNN,50000,Full training set,5000,57,10,51
+Standard CNN,50000,Full training set,10000,86,10,51

@@ -1,0 +1,31 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,Run,Seed
+Standard CNN,1280,5-shot equivalent,100,216,8,49
+Standard CNN,1280,5-shot equivalent,500,200,8,49
+Standard CNN,1280,5-shot equivalent,1000,243,8,49
+Standard CNN,1280,5-shot equivalent,2000,253,8,49
+Standard CNN,1280,5-shot equivalent,5000,255,8,49
+Standard CNN,1280,5-shot equivalent,10000,252,8,49
+Standard CNN,2560,10-shot equivalent,100,44,8,49
+Standard CNN,2560,10-shot equivalent,500,74,8,49
+Standard CNN,2560,10-shot equivalent,1000,44,8,49
+Standard CNN,2560,10-shot equivalent,2000,51,8,49
+Standard CNN,2560,10-shot equivalent,5000,186,8,49
+Standard CNN,2560,10-shot equivalent,10000,51,8,49
+Standard CNN,3840,15-shot equivalent,100,215,8,49
+Standard CNN,3840,15-shot equivalent,500,133,8,49
+Standard CNN,3840,15-shot equivalent,1000,34,8,49
+Standard CNN,3840,15-shot equivalent,2000,111,8,49
+Standard CNN,3840,15-shot equivalent,5000,99,8,49
+Standard CNN,3840,15-shot equivalent,10000,51,8,49
+Standard CNN,5120,20-shot equivalent,100,218,8,49
+Standard CNN,5120,20-shot equivalent,500,171,8,49
+Standard CNN,5120,20-shot equivalent,1000,135,8,49
+Standard CNN,5120,20-shot equivalent,2000,36,8,49
+Standard CNN,5120,20-shot equivalent,5000,67,8,49
+Standard CNN,5120,20-shot equivalent,10000,212,8,49
+Standard CNN,50000,Full training set,100,244,8,49
+Standard CNN,50000,Full training set,500,77,8,49
+Standard CNN,50000,Full training set,1000,52,8,49
+Standard CNN,50000,Full training set,2000,52,8,49
+Standard CNN,50000,Full training set,5000,187,8,49
+Standard CNN,50000,Full training set,10000,103,8,49

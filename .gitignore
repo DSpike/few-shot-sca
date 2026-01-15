@@ -1,0 +1,171 @@
+# ============================================================================
+# Few-Shot SCA - Git Ignore File
+# ============================================================================
+
+# ============================================================================
+# Large Data Files (DON'T COMMIT!)
+# ============================================================================
+# ASCAD dataset is ~1-2 GB - too large for GitHub
+*.h5
+*.hdf5
+ASCAD_data/
+ASCAD_databases/
+
+# Large result files (optional - keep small CSVs, ignore large ones)
+# Uncomment if your result files get too large
+# experiment_results/all_runs_combined.csv
+# baseline_results/all_baseline_runs_combined.csv
+
+# ============================================================================
+# Python
+# ============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# ============================================================================
+# Jupyter Notebook
+# ============================================================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================================================
+# IDEs
+# ============================================================================
+# VSCode
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+*.iml
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ============================================================================
+# Operating System
+# ============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+nul
+*.bat
+
+# Linux
+*~
+
+# ============================================================================
+# Logs and Temporary Files
+# ============================================================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+logs/
+
+# ============================================================================
+# PyTorch
+# ============================================================================
+# Model checkpoints (can be large)
+*.pth
+*.pt
+checkpoints/
+saved_models/
+
+# ============================================================================
+# Experiment Outputs (Optional)
+# ============================================================================
+# Uncomment these if you don't want to track certain experiment files
+
+# Old/test output files
+attack_results.png
+attack_results_fixed.png
+maml_training.png
+maml_training_fixed.png
+snr_diagnosis.png
+test_run_output.txt
+few_shot_sca_results.csv
+baseline_standard_cnn_results.csv
+
+# Cleanup files
+CLEANUP_NEEDED.md
+
+# Figures (keep for paper)
+# figures/*.png
+# figures/*.pdf
+
+# Individual run results (keep aggregated stats only)
+# experiment_results/run_*.csv
+# baseline_results/baseline_run_*.csv
+
+# ============================================================================
+# Sensitive Information
+# ============================================================================
+# Never commit these!
+.env
+secrets.txt
+credentials.json
+*.key
+*.pem
+
+# ============================================================================
+# Testing
+# ============================================================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ============================================================================
+# Documentation Build Files
+# ============================================================================
+_build/
+docs/_build/
