@@ -179,7 +179,8 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Derara Senay Shanka] - [derjan06@gmail.com]
+[Peter Shaojui Wang] - [shaojuiwang@gmail.com]
 
 Project Link: [https://github.com/DSpike/few-shot-sca](https://github.com/DSpike/few-shot-sca)
 
