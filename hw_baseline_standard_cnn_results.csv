@@ -1,0 +1,55 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,Leakage_Model
+Standard CNN (HW),45,5-shot (HW),100,215,HW
+Standard CNN (HW),45,5-shot (HW),500,51,HW
+Standard CNN (HW),45,5-shot (HW),1000,51,HW
+Standard CNN (HW),45,5-shot (HW),2000,56,HW
+Standard CNN (HW),45,5-shot (HW),5000,38,HW
+Standard CNN (HW),45,5-shot (HW),10000,59,HW
+Standard CNN (HW),90,10-shot (HW),100,166,HW
+Standard CNN (HW),90,10-shot (HW),500,172,HW
+Standard CNN (HW),90,10-shot (HW),1000,182,HW
+Standard CNN (HW),90,10-shot (HW),2000,174,HW
+Standard CNN (HW),90,10-shot (HW),5000,132,HW
+Standard CNN (HW),90,10-shot (HW),10000,90,HW
+Standard CNN (HW),135,15-shot (HW),100,71,HW
+Standard CNN (HW),135,15-shot (HW),500,159,HW
+Standard CNN (HW),135,15-shot (HW),1000,190,HW
+Standard CNN (HW),135,15-shot (HW),2000,244,HW
+Standard CNN (HW),135,15-shot (HW),5000,146,HW
+Standard CNN (HW),135,15-shot (HW),10000,218,HW
+Standard CNN (HW),180,20-shot (HW),100,221,HW
+Standard CNN (HW),180,20-shot (HW),500,189,HW
+Standard CNN (HW),180,20-shot (HW),1000,94,HW
+Standard CNN (HW),180,20-shot (HW),2000,38,HW
+Standard CNN (HW),180,20-shot (HW),5000,50,HW
+Standard CNN (HW),180,20-shot (HW),10000,36,HW
+Standard CNN (HW),1280,ID-5-shot equiv,100,6,HW
+Standard CNN (HW),1280,ID-5-shot equiv,500,90,HW
+Standard CNN (HW),1280,ID-5-shot equiv,1000,110,HW
+Standard CNN (HW),1280,ID-5-shot equiv,2000,139,HW
+Standard CNN (HW),1280,ID-5-shot equiv,5000,87,HW
+Standard CNN (HW),1280,ID-5-shot equiv,10000,205,HW
+Standard CNN (HW),2560,ID-10-shot equiv,100,86,HW
+Standard CNN (HW),2560,ID-10-shot equiv,500,59,HW
+Standard CNN (HW),2560,ID-10-shot equiv,1000,36,HW
+Standard CNN (HW),2560,ID-10-shot equiv,2000,35,HW
+Standard CNN (HW),2560,ID-10-shot equiv,5000,108,HW
+Standard CNN (HW),2560,ID-10-shot equiv,10000,194,HW
+Standard CNN (HW),3840,ID-15-shot equiv,100,190,HW
+Standard CNN (HW),3840,ID-15-shot equiv,500,85,HW
+Standard CNN (HW),3840,ID-15-shot equiv,1000,136,HW
+Standard CNN (HW),3840,ID-15-shot equiv,2000,206,HW
+Standard CNN (HW),3840,ID-15-shot equiv,5000,145,HW
+Standard CNN (HW),3840,ID-15-shot equiv,10000,106,HW
+Standard CNN (HW),5120,ID-20-shot equiv,100,147,HW
+Standard CNN (HW),5120,ID-20-shot equiv,500,49,HW
+Standard CNN (HW),5120,ID-20-shot equiv,1000,93,HW
+Standard CNN (HW),5120,ID-20-shot equiv,2000,81,HW
+Standard CNN (HW),5120,ID-20-shot equiv,5000,85,HW
+Standard CNN (HW),5120,ID-20-shot equiv,10000,129,HW
+Standard CNN (HW),50000,Full training set,100,252,HW
+Standard CNN (HW),50000,Full training set,500,155,HW
+Standard CNN (HW),50000,Full training set,1000,136,HW
+Standard CNN (HW),50000,Full training set,2000,52,HW
+Standard CNN (HW),50000,Full training set,5000,4,HW
+Standard CNN (HW),50000,Full training set,10000,4,HW

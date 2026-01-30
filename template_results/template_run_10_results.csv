@@ -1,0 +1,31 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,PCA_Components,Run,Seed
+Template Attack,1280,5-shot equivalent,100,127,5,10,51
+Template Attack,1280,5-shot equivalent,500,65,5,10,51
+Template Attack,1280,5-shot equivalent,1000,83,5,10,51
+Template Attack,1280,5-shot equivalent,2000,29,5,10,51
+Template Attack,1280,5-shot equivalent,5000,29,5,10,51
+Template Attack,1280,5-shot equivalent,10000,192,5,10,51
+Template Attack,2560,10-shot equivalent,100,170,9,10,51
+Template Attack,2560,10-shot equivalent,500,193,9,10,51
+Template Attack,2560,10-shot equivalent,1000,66,9,10,51
+Template Attack,2560,10-shot equivalent,2000,8,9,10,51
+Template Attack,2560,10-shot equivalent,5000,30,9,10,51
+Template Attack,2560,10-shot equivalent,10000,26,9,10,51
+Template Attack,3840,15-shot equivalent,100,8,14,10,51
+Template Attack,3840,15-shot equivalent,500,27,14,10,51
+Template Attack,3840,15-shot equivalent,1000,42,14,10,51
+Template Attack,3840,15-shot equivalent,2000,72,14,10,51
+Template Attack,3840,15-shot equivalent,5000,141,14,10,51
+Template Attack,3840,15-shot equivalent,10000,21,14,10,51
+Template Attack,5120,20-shot equivalent,100,60,19,10,51
+Template Attack,5120,20-shot equivalent,500,134,19,10,51
+Template Attack,5120,20-shot equivalent,1000,108,19,10,51
+Template Attack,5120,20-shot equivalent,2000,40,19,10,51
+Template Attack,5120,20-shot equivalent,5000,3,19,10,51
+Template Attack,5120,20-shot equivalent,10000,31,19,10,51
+Template Attack,50000,Full training set,100,21,20,10,51
+Template Attack,50000,Full training set,500,0,20,10,51
+Template Attack,50000,Full training set,1000,4,20,10,51
+Template Attack,50000,Full training set,2000,38,20,10,51
+Template Attack,50000,Full training set,5000,54,20,10,51
+Template Attack,50000,Full training set,10000,74,20,10,51

@@ -1,0 +1,46 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,Leakage_Model,Dataset
+Standard CNN (HW),45,5-shot (HW),100,140,HW,CHES_CTF
+Standard CNN (HW),45,5-shot (HW),500,164,HW,CHES_CTF
+Standard CNN (HW),45,5-shot (HW),1000,187,HW,CHES_CTF
+Standard CNN (HW),45,5-shot (HW),2000,188,HW,CHES_CTF
+Standard CNN (HW),45,5-shot (HW),5000,67,HW,CHES_CTF
+Standard CNN (HW),90,10-shot (HW),100,208,HW,CHES_CTF
+Standard CNN (HW),90,10-shot (HW),500,142,HW,CHES_CTF
+Standard CNN (HW),90,10-shot (HW),1000,155,HW,CHES_CTF
+Standard CNN (HW),90,10-shot (HW),2000,230,HW,CHES_CTF
+Standard CNN (HW),90,10-shot (HW),5000,113,HW,CHES_CTF
+Standard CNN (HW),135,15-shot (HW),100,223,HW,CHES_CTF
+Standard CNN (HW),135,15-shot (HW),500,225,HW,CHES_CTF
+Standard CNN (HW),135,15-shot (HW),1000,245,HW,CHES_CTF
+Standard CNN (HW),135,15-shot (HW),2000,239,HW,CHES_CTF
+Standard CNN (HW),135,15-shot (HW),5000,218,HW,CHES_CTF
+Standard CNN (HW),180,20-shot (HW),100,198,HW,CHES_CTF
+Standard CNN (HW),180,20-shot (HW),500,226,HW,CHES_CTF
+Standard CNN (HW),180,20-shot (HW),1000,255,HW,CHES_CTF
+Standard CNN (HW),180,20-shot (HW),2000,202,HW,CHES_CTF
+Standard CNN (HW),180,20-shot (HW),5000,171,HW,CHES_CTF
+Standard CNN (HW),1280,ID-5-shot equiv,100,190,HW,CHES_CTF
+Standard CNN (HW),1280,ID-5-shot equiv,500,239,HW,CHES_CTF
+Standard CNN (HW),1280,ID-5-shot equiv,1000,243,HW,CHES_CTF
+Standard CNN (HW),1280,ID-5-shot equiv,2000,162,HW,CHES_CTF
+Standard CNN (HW),1280,ID-5-shot equiv,5000,23,HW,CHES_CTF
+Standard CNN (HW),2560,ID-10-shot equiv,100,207,HW,CHES_CTF
+Standard CNN (HW),2560,ID-10-shot equiv,500,150,HW,CHES_CTF
+Standard CNN (HW),2560,ID-10-shot equiv,1000,166,HW,CHES_CTF
+Standard CNN (HW),2560,ID-10-shot equiv,2000,231,HW,CHES_CTF
+Standard CNN (HW),2560,ID-10-shot equiv,5000,60,HW,CHES_CTF
+Standard CNN (HW),3840,ID-15-shot equiv,100,188,HW,CHES_CTF
+Standard CNN (HW),3840,ID-15-shot equiv,500,87,HW,CHES_CTF
+Standard CNN (HW),3840,ID-15-shot equiv,1000,28,HW,CHES_CTF
+Standard CNN (HW),3840,ID-15-shot equiv,2000,138,HW,CHES_CTF
+Standard CNN (HW),3840,ID-15-shot equiv,5000,232,HW,CHES_CTF
+Standard CNN (HW),5120,ID-20-shot equiv,100,138,HW,CHES_CTF
+Standard CNN (HW),5120,ID-20-shot equiv,500,156,HW,CHES_CTF
+Standard CNN (HW),5120,ID-20-shot equiv,1000,85,HW,CHES_CTF
+Standard CNN (HW),5120,ID-20-shot equiv,2000,56,HW,CHES_CTF
+Standard CNN (HW),5120,ID-20-shot equiv,5000,173,HW,CHES_CTF
+Standard CNN (HW),45000,Full training set,100,42,HW,CHES_CTF
+Standard CNN (HW),45000,Full training set,500,5,HW,CHES_CTF
+Standard CNN (HW),45000,Full training set,1000,2,HW,CHES_CTF
+Standard CNN (HW),45000,Full training set,2000,33,HW,CHES_CTF
+Standard CNN (HW),45000,Full training set,5000,36,HW,CHES_CTF

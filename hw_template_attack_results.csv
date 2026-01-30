@@ -1,0 +1,55 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,PCA_Components,Leakage_Model
+Template Attack (HW),45,5-shot (HW),100,31,4,HW
+Template Attack (HW),45,5-shot (HW),500,34,4,HW
+Template Attack (HW),45,5-shot (HW),1000,92,4,HW
+Template Attack (HW),45,5-shot (HW),2000,65,4,HW
+Template Attack (HW),45,5-shot (HW),5000,17,4,HW
+Template Attack (HW),45,5-shot (HW),10000,26,4,HW
+Template Attack (HW),90,10-shot (HW),100,147,8,HW
+Template Attack (HW),90,10-shot (HW),500,214,8,HW
+Template Attack (HW),90,10-shot (HW),1000,189,8,HW
+Template Attack (HW),90,10-shot (HW),2000,172,8,HW
+Template Attack (HW),90,10-shot (HW),5000,68,8,HW
+Template Attack (HW),90,10-shot (HW),10000,113,8,HW
+Template Attack (HW),135,15-shot (HW),100,40,8,HW
+Template Attack (HW),135,15-shot (HW),500,143,8,HW
+Template Attack (HW),135,15-shot (HW),1000,238,8,HW
+Template Attack (HW),135,15-shot (HW),2000,223,8,HW
+Template Attack (HW),135,15-shot (HW),5000,90,8,HW
+Template Attack (HW),135,15-shot (HW),10000,188,8,HW
+Template Attack (HW),180,20-shot (HW),100,169,8,HW
+Template Attack (HW),180,20-shot (HW),500,223,8,HW
+Template Attack (HW),180,20-shot (HW),1000,179,8,HW
+Template Attack (HW),180,20-shot (HW),2000,84,8,HW
+Template Attack (HW),180,20-shot (HW),5000,171,8,HW
+Template Attack (HW),180,20-shot (HW),10000,180,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,100,40,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,500,15,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,1000,10,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,2000,34,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,5000,86,8,HW
+Template Attack (HW),1280,ID-5-shot equiv,10000,68,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,100,212,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,500,101,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,1000,105,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,2000,160,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,5000,140,8,HW
+Template Attack (HW),2560,ID-10-shot equiv,10000,146,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,100,207,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,500,214,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,1000,187,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,2000,151,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,5000,197,8,HW
+Template Attack (HW),3840,ID-15-shot equiv,10000,128,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,100,129,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,500,221,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,1000,248,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,2000,208,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,5000,201,8,HW
+Template Attack (HW),5120,ID-20-shot equiv,10000,205,8,HW
+Template Attack (HW),50000,Full training set,100,13,8,HW
+Template Attack (HW),50000,Full training set,500,26,8,HW
+Template Attack (HW),50000,Full training set,1000,27,8,HW
+Template Attack (HW),50000,Full training set,2000,32,8,HW
+Template Attack (HW),50000,Full training set,5000,62,8,HW
+Template Attack (HW),50000,Full training set,10000,57,8,HW

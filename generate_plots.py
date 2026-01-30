@@ -181,7 +181,7 @@ plt.savefig(os.path.join(OUTPUT_DIR, 'fig2_kshot_ablation.pdf'), bbox_inches='ti
 print(f"  ✓ Saved: {OUTPUT_DIR}/fig2_kshot_ablation.png")
 
 # ============================================================================
-# Figure 3: Heatmap of all results
+# Figure 3: Heatmap of all results (uses Mean from 10 runs if available)
 # ============================================================================
 print("Generating Figure 3: Results Heatmap...")
 
@@ -190,8 +190,21 @@ fig, axes = plt.subplots(1, 3, figsize=(18, 5))
 for idx, method in enumerate(methods):
     ax = axes[idx]
 
-    method_data = df[df['Method'] == method]
-    pivot = method_data.pivot(index='K-Shot', columns='Attack Traces', values='Key Rank')
+    if has_stats:
+        # Use Mean Key Rank from 10 runs (aggregated statistics)
+        method_data = stats_df[stats_df['Method'] == method]
+        # Handle all column name formats
+        cols = method_data.columns.tolist()
+        kr_col = next((c for c in cols if c in ['Mean_Rank', 'Mean_Key_Rank', 'Mean Key Rank']), None)
+        ks_col = next((c for c in cols if c in ['K-Shot', 'K_Shot']), None)
+        at_col = next((c for c in cols if c in ['Attack_Traces', 'Attack Traces']), None)
+        pivot = method_data.pivot(index=ks_col, columns=at_col, values=kr_col)
+        title_suffix = ' (Mean of 10 runs)'
+    else:
+        # Fallback to single run
+        method_data = df[df['Method'] == method]
+        pivot = method_data.pivot(index='K-Shot', columns='Attack Traces', values='Key Rank')
+        title_suffix = ' (Single run)'
 
     sns.heatmap(
         pivot,
@@ -203,7 +216,7 @@ for idx, method in enumerate(methods):
         vmin=0,
         vmax=255
     )
-    ax.set_title(f'{method} Performance', fontsize=12, fontweight='bold')
+    ax.set_title(f'{method}{title_suffix}', fontsize=12, fontweight='bold')
     ax.set_xlabel('Number of Attack Traces')
     ax.set_ylabel('K-Shot')
 
@@ -211,6 +224,8 @@ plt.tight_layout()
 plt.savefig(os.path.join(OUTPUT_DIR, 'fig3_results_heatmap.png'), dpi=300, bbox_inches='tight')
 plt.savefig(os.path.join(OUTPUT_DIR, 'fig3_results_heatmap.pdf'), bbox_inches='tight')
 print(f"  ✓ Saved: {OUTPUT_DIR}/fig3_results_heatmap.png")
+if has_stats:
+    print(f"    (Using Mean Key Rank from aggregated statistics)")
 
 # ============================================================================
 # Figure 4: Comparison with Baseline (if available)

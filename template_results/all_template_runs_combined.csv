@@ -1,0 +1,301 @@
+Method,Training_Size,Training_Config,Attack_Traces,Key_Rank,PCA_Components,Run,Seed
+Template Attack,1280,5-shot equivalent,100,21,5,1,42
+Template Attack,1280,5-shot equivalent,500,9,5,1,42
+Template Attack,1280,5-shot equivalent,1000,80,5,1,42
+Template Attack,1280,5-shot equivalent,2000,144,5,1,42
+Template Attack,1280,5-shot equivalent,5000,220,5,1,42
+Template Attack,1280,5-shot equivalent,10000,220,5,1,42
+Template Attack,2560,10-shot equivalent,100,41,9,1,42
+Template Attack,2560,10-shot equivalent,500,40,9,1,42
+Template Attack,2560,10-shot equivalent,1000,40,9,1,42
+Template Attack,2560,10-shot equivalent,2000,75,9,1,42
+Template Attack,2560,10-shot equivalent,5000,26,9,1,42
+Template Attack,2560,10-shot equivalent,10000,11,9,1,42
+Template Attack,3840,15-shot equivalent,100,109,14,1,42
+Template Attack,3840,15-shot equivalent,500,19,14,1,42
+Template Attack,3840,15-shot equivalent,1000,4,14,1,42
+Template Attack,3840,15-shot equivalent,2000,19,14,1,42
+Template Attack,3840,15-shot equivalent,5000,42,14,1,42
+Template Attack,3840,15-shot equivalent,10000,77,14,1,42
+Template Attack,5120,20-shot equivalent,100,27,19,1,42
+Template Attack,5120,20-shot equivalent,500,24,19,1,42
+Template Attack,5120,20-shot equivalent,1000,43,19,1,42
+Template Attack,5120,20-shot equivalent,2000,189,19,1,42
+Template Attack,5120,20-shot equivalent,5000,188,19,1,42
+Template Attack,5120,20-shot equivalent,10000,224,19,1,42
+Template Attack,50000,Full training set,100,21,20,1,42
+Template Attack,50000,Full training set,500,0,20,1,42
+Template Attack,50000,Full training set,1000,4,20,1,42
+Template Attack,50000,Full training set,2000,38,20,1,42
+Template Attack,50000,Full training set,5000,54,20,1,42
+Template Attack,50000,Full training set,10000,74,20,1,42
+Template Attack,1280,5-shot equivalent,100,222,5,2,43
+Template Attack,1280,5-shot equivalent,500,62,5,2,43
+Template Attack,1280,5-shot equivalent,1000,12,5,2,43
+Template Attack,1280,5-shot equivalent,2000,5,5,2,43
+Template Attack,1280,5-shot equivalent,5000,9,5,2,43
+Template Attack,1280,5-shot equivalent,10000,2,5,2,43
+Template Attack,2560,10-shot equivalent,100,36,9,2,43
+Template Attack,2560,10-shot equivalent,500,138,9,2,43
+Template Attack,2560,10-shot equivalent,1000,168,9,2,43
+Template Attack,2560,10-shot equivalent,2000,178,9,2,43
+Template Attack,2560,10-shot equivalent,5000,20,9,2,43
+Template Attack,2560,10-shot equivalent,10000,31,9,2,43
+Template Attack,3840,15-shot equivalent,100,64,14,2,43
+Template Attack,3840,15-shot equivalent,500,0,14,2,43
+Template Attack,3840,15-shot equivalent,1000,10,14,2,43
+Template Attack,3840,15-shot equivalent,2000,3,14,2,43
+Template Attack,3840,15-shot equivalent,5000,59,14,2,43
+Template Attack,3840,15-shot equivalent,10000,94,14,2,43
+Template Attack,5120,20-shot equivalent,100,99,19,2,43
+Template Attack,5120,20-shot equivalent,500,6,19,2,43
+Template Attack,5120,20-shot equivalent,1000,6,19,2,43
+Template Attack,5120,20-shot equivalent,2000,41,19,2,43
+Template Attack,5120,20-shot equivalent,5000,6,19,2,43
+Template Attack,5120,20-shot equivalent,10000,42,19,2,43
+Template Attack,50000,Full training set,100,21,20,2,43
+Template Attack,50000,Full training set,500,0,20,2,43
+Template Attack,50000,Full training set,1000,4,20,2,43
+Template Attack,50000,Full training set,2000,38,20,2,43
+Template Attack,50000,Full training set,5000,54,20,2,43
+Template Attack,50000,Full training set,10000,74,20,2,43
+Template Attack,1280,5-shot equivalent,100,158,5,3,44
+Template Attack,1280,5-shot equivalent,500,77,5,3,44
+Template Attack,1280,5-shot equivalent,1000,13,5,3,44
+Template Attack,1280,5-shot equivalent,2000,0,5,3,44
+Template Attack,1280,5-shot equivalent,5000,1,5,3,44
+Template Attack,1280,5-shot equivalent,10000,17,5,3,44
+Template Attack,2560,10-shot equivalent,100,204,9,3,44
+Template Attack,2560,10-shot equivalent,500,186,9,3,44
+Template Attack,2560,10-shot equivalent,1000,118,9,3,44
+Template Attack,2560,10-shot equivalent,2000,162,9,3,44
+Template Attack,2560,10-shot equivalent,5000,136,9,3,44
+Template Attack,2560,10-shot equivalent,10000,102,9,3,44
+Template Attack,3840,15-shot equivalent,100,117,14,3,44
+Template Attack,3840,15-shot equivalent,500,232,14,3,44
+Template Attack,3840,15-shot equivalent,1000,230,14,3,44
+Template Attack,3840,15-shot equivalent,2000,200,14,3,44
+Template Attack,3840,15-shot equivalent,5000,117,14,3,44
+Template Attack,3840,15-shot equivalent,10000,85,14,3,44
+Template Attack,5120,20-shot equivalent,100,60,19,3,44
+Template Attack,5120,20-shot equivalent,500,45,19,3,44
+Template Attack,5120,20-shot equivalent,1000,54,19,3,44
+Template Attack,5120,20-shot equivalent,2000,45,19,3,44
+Template Attack,5120,20-shot equivalent,5000,47,19,3,44
+Template Attack,5120,20-shot equivalent,10000,20,19,3,44
+Template Attack,50000,Full training set,100,21,20,3,44
+Template Attack,50000,Full training set,500,0,20,3,44
+Template Attack,50000,Full training set,1000,4,20,3,44
+Template Attack,50000,Full training set,2000,38,20,3,44
+Template Attack,50000,Full training set,5000,54,20,3,44
+Template Attack,50000,Full training set,10000,74,20,3,44
+Template Attack,1280,5-shot equivalent,100,126,5,4,45
+Template Attack,1280,5-shot equivalent,500,78,5,4,45
+Template Attack,1280,5-shot equivalent,1000,30,5,4,45
+Template Attack,1280,5-shot equivalent,2000,12,5,4,45
+Template Attack,1280,5-shot equivalent,5000,57,5,4,45
+Template Attack,1280,5-shot equivalent,10000,3,5,4,45
+Template Attack,2560,10-shot equivalent,100,192,9,4,45
+Template Attack,2560,10-shot equivalent,500,2,9,4,45
+Template Attack,2560,10-shot equivalent,1000,0,9,4,45
+Template Attack,2560,10-shot equivalent,2000,16,9,4,45
+Template Attack,2560,10-shot equivalent,5000,12,9,4,45
+Template Attack,2560,10-shot equivalent,10000,10,9,4,45
+Template Attack,3840,15-shot equivalent,100,22,14,4,45
+Template Attack,3840,15-shot equivalent,500,25,14,4,45
+Template Attack,3840,15-shot equivalent,1000,61,14,4,45
+Template Attack,3840,15-shot equivalent,2000,25,14,4,45
+Template Attack,3840,15-shot equivalent,5000,3,14,4,45
+Template Attack,3840,15-shot equivalent,10000,0,14,4,45
+Template Attack,5120,20-shot equivalent,100,122,19,4,45
+Template Attack,5120,20-shot equivalent,500,14,19,4,45
+Template Attack,5120,20-shot equivalent,1000,105,19,4,45
+Template Attack,5120,20-shot equivalent,2000,119,19,4,45
+Template Attack,5120,20-shot equivalent,5000,114,19,4,45
+Template Attack,5120,20-shot equivalent,10000,219,19,4,45
+Template Attack,50000,Full training set,100,21,20,4,45
+Template Attack,50000,Full training set,500,0,20,4,45
+Template Attack,50000,Full training set,1000,4,20,4,45
+Template Attack,50000,Full training set,2000,38,20,4,45
+Template Attack,50000,Full training set,5000,54,20,4,45
+Template Attack,50000,Full training set,10000,74,20,4,45
+Template Attack,1280,5-shot equivalent,100,38,5,5,46
+Template Attack,1280,5-shot equivalent,500,225,5,5,46
+Template Attack,1280,5-shot equivalent,1000,231,5,5,46
+Template Attack,1280,5-shot equivalent,2000,204,5,5,46
+Template Attack,1280,5-shot equivalent,5000,227,5,5,46
+Template Attack,1280,5-shot equivalent,10000,172,5,5,46
+Template Attack,2560,10-shot equivalent,100,26,9,5,46
+Template Attack,2560,10-shot equivalent,500,90,9,5,46
+Template Attack,2560,10-shot equivalent,1000,19,9,5,46
+Template Attack,2560,10-shot equivalent,2000,34,9,5,46
+Template Attack,2560,10-shot equivalent,5000,22,9,5,46
+Template Attack,2560,10-shot equivalent,10000,38,9,5,46
+Template Attack,3840,15-shot equivalent,100,159,14,5,46
+Template Attack,3840,15-shot equivalent,500,87,14,5,46
+Template Attack,3840,15-shot equivalent,1000,64,14,5,46
+Template Attack,3840,15-shot equivalent,2000,12,14,5,46
+Template Attack,3840,15-shot equivalent,5000,16,14,5,46
+Template Attack,3840,15-shot equivalent,10000,84,14,5,46
+Template Attack,5120,20-shot equivalent,100,76,19,5,46
+Template Attack,5120,20-shot equivalent,500,83,19,5,46
+Template Attack,5120,20-shot equivalent,1000,35,19,5,46
+Template Attack,5120,20-shot equivalent,2000,34,19,5,46
+Template Attack,5120,20-shot equivalent,5000,22,19,5,46
+Template Attack,5120,20-shot equivalent,10000,15,19,5,46
+Template Attack,50000,Full training set,100,21,20,5,46
+Template Attack,50000,Full training set,500,0,20,5,46
+Template Attack,50000,Full training set,1000,4,20,5,46
+Template Attack,50000,Full training set,2000,38,20,5,46
+Template Attack,50000,Full training set,5000,54,20,5,46
+Template Attack,50000,Full training set,10000,74,20,5,46
+Template Attack,1280,5-shot equivalent,100,7,5,6,47
+Template Attack,1280,5-shot equivalent,500,49,5,6,47
+Template Attack,1280,5-shot equivalent,1000,141,5,6,47
+Template Attack,1280,5-shot equivalent,2000,196,5,6,47
+Template Attack,1280,5-shot equivalent,5000,116,5,6,47
+Template Attack,1280,5-shot equivalent,10000,113,5,6,47
+Template Attack,2560,10-shot equivalent,100,14,9,6,47
+Template Attack,2560,10-shot equivalent,500,5,9,6,47
+Template Attack,2560,10-shot equivalent,1000,44,9,6,47
+Template Attack,2560,10-shot equivalent,2000,75,9,6,47
+Template Attack,2560,10-shot equivalent,5000,129,9,6,47
+Template Attack,2560,10-shot equivalent,10000,50,9,6,47
+Template Attack,3840,15-shot equivalent,100,61,14,6,47
+Template Attack,3840,15-shot equivalent,500,146,14,6,47
+Template Attack,3840,15-shot equivalent,1000,174,14,6,47
+Template Attack,3840,15-shot equivalent,2000,154,14,6,47
+Template Attack,3840,15-shot equivalent,5000,192,14,6,47
+Template Attack,3840,15-shot equivalent,10000,152,14,6,47
+Template Attack,5120,20-shot equivalent,100,196,19,6,47
+Template Attack,5120,20-shot equivalent,500,99,19,6,47
+Template Attack,5120,20-shot equivalent,1000,58,19,6,47
+Template Attack,5120,20-shot equivalent,2000,146,19,6,47
+Template Attack,5120,20-shot equivalent,5000,141,19,6,47
+Template Attack,5120,20-shot equivalent,10000,165,19,6,47
+Template Attack,50000,Full training set,100,21,20,6,47
+Template Attack,50000,Full training set,500,0,20,6,47
+Template Attack,50000,Full training set,1000,4,20,6,47
+Template Attack,50000,Full training set,2000,38,20,6,47
+Template Attack,50000,Full training set,5000,54,20,6,47
+Template Attack,50000,Full training set,10000,74,20,6,47
+Template Attack,1280,5-shot equivalent,100,193,5,7,48
+Template Attack,1280,5-shot equivalent,500,91,5,7,48
+Template Attack,1280,5-shot equivalent,1000,83,5,7,48
+Template Attack,1280,5-shot equivalent,2000,89,5,7,48
+Template Attack,1280,5-shot equivalent,5000,104,5,7,48
+Template Attack,1280,5-shot equivalent,10000,149,5,7,48
+Template Attack,2560,10-shot equivalent,100,55,9,7,48
+Template Attack,2560,10-shot equivalent,500,46,9,7,48
+Template Attack,2560,10-shot equivalent,1000,21,9,7,48
+Template Attack,2560,10-shot equivalent,2000,9,9,7,48
+Template Attack,2560,10-shot equivalent,5000,15,9,7,48
+Template Attack,2560,10-shot equivalent,10000,67,9,7,48
+Template Attack,3840,15-shot equivalent,100,51,14,7,48
+Template Attack,3840,15-shot equivalent,500,97,14,7,48
+Template Attack,3840,15-shot equivalent,1000,37,14,7,48
+Template Attack,3840,15-shot equivalent,2000,46,14,7,48
+Template Attack,3840,15-shot equivalent,5000,33,14,7,48
+Template Attack,3840,15-shot equivalent,10000,95,14,7,48
+Template Attack,5120,20-shot equivalent,100,85,19,7,48
+Template Attack,5120,20-shot equivalent,500,150,19,7,48
+Template Attack,5120,20-shot equivalent,1000,98,19,7,48
+Template Attack,5120,20-shot equivalent,2000,39,19,7,48
+Template Attack,5120,20-shot equivalent,5000,83,19,7,48
+Template Attack,5120,20-shot equivalent,10000,28,19,7,48
+Template Attack,50000,Full training set,100,21,20,7,48
+Template Attack,50000,Full training set,500,0,20,7,48
+Template Attack,50000,Full training set,1000,4,20,7,48
+Template Attack,50000,Full training set,2000,38,20,7,48
+Template Attack,50000,Full training set,5000,54,20,7,48
+Template Attack,50000,Full training set,10000,74,20,7,48
+Template Attack,1280,5-shot equivalent,100,238,5,8,49
+Template Attack,1280,5-shot equivalent,500,179,5,8,49
+Template Attack,1280,5-shot equivalent,1000,233,5,8,49
+Template Attack,1280,5-shot equivalent,2000,145,5,8,49
+Template Attack,1280,5-shot equivalent,5000,235,5,8,49
+Template Attack,1280,5-shot equivalent,10000,189,5,8,49
+Template Attack,2560,10-shot equivalent,100,200,9,8,49
+Template Attack,2560,10-shot equivalent,500,27,9,8,49
+Template Attack,2560,10-shot equivalent,1000,40,9,8,49
+Template Attack,2560,10-shot equivalent,2000,61,9,8,49
+Template Attack,2560,10-shot equivalent,5000,83,9,8,49
+Template Attack,2560,10-shot equivalent,10000,69,9,8,49
+Template Attack,3840,15-shot equivalent,100,182,14,8,49
+Template Attack,3840,15-shot equivalent,500,177,14,8,49
+Template Attack,3840,15-shot equivalent,1000,235,14,8,49
+Template Attack,3840,15-shot equivalent,2000,214,14,8,49
+Template Attack,3840,15-shot equivalent,5000,224,14,8,49
+Template Attack,3840,15-shot equivalent,10000,251,14,8,49
+Template Attack,5120,20-shot equivalent,100,150,19,8,49
+Template Attack,5120,20-shot equivalent,500,14,19,8,49
+Template Attack,5120,20-shot equivalent,1000,8,19,8,49
+Template Attack,5120,20-shot equivalent,2000,111,19,8,49
+Template Attack,5120,20-shot equivalent,5000,64,19,8,49
+Template Attack,5120,20-shot equivalent,10000,115,19,8,49
+Template Attack,50000,Full training set,100,21,20,8,49
+Template Attack,50000,Full training set,500,0,20,8,49
+Template Attack,50000,Full training set,1000,4,20,8,49
+Template Attack,50000,Full training set,2000,38,20,8,49
+Template Attack,50000,Full training set,5000,54,20,8,49
+Template Attack,50000,Full training set,10000,74,20,8,49
+Template Attack,1280,5-shot equivalent,100,98,5,9,50
+Template Attack,1280,5-shot equivalent,500,64,5,9,50
+Template Attack,1280,5-shot equivalent,1000,77,5,9,50
+Template Attack,1280,5-shot equivalent,2000,71,5,9,50
+Template Attack,1280,5-shot equivalent,5000,38,5,9,50
+Template Attack,1280,5-shot equivalent,10000,52,5,9,50
+Template Attack,2560,10-shot equivalent,100,23,9,9,50
+Template Attack,2560,10-shot equivalent,500,125,9,9,50
+Template Attack,2560,10-shot equivalent,1000,40,9,9,50
+Template Attack,2560,10-shot equivalent,2000,88,9,9,50
+Template Attack,2560,10-shot equivalent,5000,22,9,9,50
+Template Attack,2560,10-shot equivalent,10000,81,9,9,50
+Template Attack,3840,15-shot equivalent,100,176,14,9,50
+Template Attack,3840,15-shot equivalent,500,204,14,9,50
+Template Attack,3840,15-shot equivalent,1000,111,14,9,50
+Template Attack,3840,15-shot equivalent,2000,35,14,9,50
+Template Attack,3840,15-shot equivalent,5000,27,14,9,50
+Template Attack,3840,15-shot equivalent,10000,19,14,9,50
+Template Attack,5120,20-shot equivalent,100,74,19,9,50
+Template Attack,5120,20-shot equivalent,500,68,19,9,50
+Template Attack,5120,20-shot equivalent,1000,174,19,9,50
+Template Attack,5120,20-shot equivalent,2000,153,19,9,50
+Template Attack,5120,20-shot equivalent,5000,134,19,9,50
+Template Attack,5120,20-shot equivalent,10000,179,19,9,50
+Template Attack,50000,Full training set,100,21,20,9,50
+Template Attack,50000,Full training set,500,0,20,9,50
+Template Attack,50000,Full training set,1000,4,20,9,50
+Template Attack,50000,Full training set,2000,38,20,9,50
+Template Attack,50000,Full training set,5000,54,20,9,50
+Template Attack,50000,Full training set,10000,74,20,9,50
+Template Attack,1280,5-shot equivalent,100,127,5,10,51
+Template Attack,1280,5-shot equivalent,500,65,5,10,51
+Template Attack,1280,5-shot equivalent,1000,83,5,10,51
+Template Attack,1280,5-shot equivalent,2000,29,5,10,51
+Template Attack,1280,5-shot equivalent,5000,29,5,10,51
+Template Attack,1280,5-shot equivalent,10000,192,5,10,51
+Template Attack,2560,10-shot equivalent,100,170,9,10,51
+Template Attack,2560,10-shot equivalent,500,193,9,10,51
+Template Attack,2560,10-shot equivalent,1000,66,9,10,51
+Template Attack,2560,10-shot equivalent,2000,8,9,10,51
+Template Attack,2560,10-shot equivalent,5000,30,9,10,51
+Template Attack,2560,10-shot equivalent,10000,26,9,10,51
+Template Attack,3840,15-shot equivalent,100,8,14,10,51
+Template Attack,3840,15-shot equivalent,500,27,14,10,51
+Template Attack,3840,15-shot equivalent,1000,42,14,10,51
+Template Attack,3840,15-shot equivalent,2000,72,14,10,51
+Template Attack,3840,15-shot equivalent,5000,141,14,10,51
+Template Attack,3840,15-shot equivalent,10000,21,14,10,51
+Template Attack,5120,20-shot equivalent,100,60,19,10,51
+Template Attack,5120,20-shot equivalent,500,134,19,10,51
+Template Attack,5120,20-shot equivalent,1000,108,19,10,51
+Template Attack,5120,20-shot equivalent,2000,40,19,10,51
+Template Attack,5120,20-shot equivalent,5000,3,19,10,51
+Template Attack,5120,20-shot equivalent,10000,31,19,10,51
+Template Attack,50000,Full training set,100,21,20,10,51
+Template Attack,50000,Full training set,500,0,20,10,51
+Template Attack,50000,Full training set,1000,4,20,10,51
+Template Attack,50000,Full training set,2000,38,20,10,51
+Template Attack,50000,Full training set,5000,54,20,10,51
+Template Attack,50000,Full training set,10000,74,20,10,51
