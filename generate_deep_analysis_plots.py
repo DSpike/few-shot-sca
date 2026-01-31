@@ -665,6 +665,11 @@ for idx, (method_name, model) in enumerate(models.items()):
     all_preds = []
     batch_size = 1000
 
+    # For MAML, adapt once outside no_grad (adaptation needs gradients)
+    if method_name == 'MAML':
+        adapted = maml_adapt(model, support_x_tensor, support_y_tensor)
+        adapted.eval()
+
     for i in range(0, len(X_val), batch_size):
         batch = X_val_tensor[i:i+batch_size]
         with torch.no_grad():
@@ -682,8 +687,6 @@ for idx, (method_name, model) in enumerate(models.items()):
                 dists = torch.cdist(query_features, prototypes)
                 preds = torch.argmin(dists, dim=1)
             elif method_name == 'MAML':
-                adapted = maml_adapt(model, support_x_tensor, support_y_tensor)
-                adapted.eval()
                 logits = adapted(batch)
                 preds = torch.argmax(logits, dim=1)
             else:
